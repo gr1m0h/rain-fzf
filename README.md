@@ -4,11 +4,11 @@
 
 ### Dark Theme (Night Rain)
 
-![Screenshot Dark](./screenshot_dark.png)
+![Dark](./dark.png)
 
 ### Light Theme (Day Rain)
 
-![Screenshot Light](./screenshot_light.png)
+![Light](./light.png)
 
 ## Install
 
